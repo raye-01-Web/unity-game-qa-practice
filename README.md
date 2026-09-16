@@ -1,2 +1,10 @@
-# unity-game-qa-practice
-A QA practice project for a Unity game: test plans, test cases, bug reports, performance and network testing
+在文件夹中包含：
+
+UnityPC端游戏《枪神纪》商店购买模块的测试点编写
+
+微信小程序游戏《胡同小店》合成模块的测试用例编写
+
+Unity安卓端游戏《赛尔号》实时匹配模块的bug反馈
+
+附带展示了我在工作中所用到和学习到的工具
+
